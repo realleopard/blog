@@ -1,11 +1,17 @@
 ---
 title: Resume
 date: 2019-01-14 21:20:18
+photos:
+- /images/resume.jpg
 ---
+
+
 
 # 联系方式
 - 手机：18616092141
 - Email: realleopard@126.com
+
+<!-- more -->
 
 ---
 
