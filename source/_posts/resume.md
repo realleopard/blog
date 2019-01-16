@@ -3,6 +3,7 @@ title: Resume
 date: 2019-01-14 21:20:18
 photos:
 - /images/resume.jpg
+comments: false
 ---
 
 
